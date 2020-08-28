@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680358677848",
+    "firebase_url": "https://smartkost-63749.firebaseio.com",
+    "project_id": "smartkost-63749",
+    "storage_bucket": "smartkost-63749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680358677848:android:a485eeca6e85229d79a92d",
+        "android_client_info": {
+          "package_name": "com.smartkosan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680358677848-fqh37ioq6rc22upfq78rdvaivuas3lkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJMJL8FxpbTFZaUxG8PviHYh3Z8Juoz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680358677848-fqh37ioq6rc22upfq78rdvaivuas3lkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
